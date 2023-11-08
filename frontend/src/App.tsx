@@ -12,6 +12,9 @@ function App() {
         <p>
           This website is currently being devloped, check back later.
         </p>
+        <p>
+          Old website is available <a href="/index-old.html">here</a>
+        </p>
       </header>
     </div>
   );
