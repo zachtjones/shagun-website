@@ -19,6 +19,8 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+Use `yarn test --watchAll=false` to run the full suite and report when done.
+
 ### `yarn build`
 
 Builds the app for production to the `build` folder.\
